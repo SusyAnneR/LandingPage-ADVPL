@@ -19206,7 +19206,7 @@ const TA = [
     ],
   ],
   ho = kt("zap", TA),
-  AA = "/assets/img-pc-BR9YZf9s.webp";
+  AA = "./assets/img-pc-BR9YZf9s.webp";
 function EA() {
   const i = () => {
     document
@@ -19518,7 +19518,7 @@ function MA() {
     }),
   });
 }
-const DA = "/assets/metodo-n4QSsu8k.webp";
+const DA = "./assets/metodo-n4QSsu8k.webp";
 function NA() {
   return x.jsxs(x.Fragment, {
     children: [
@@ -20227,7 +20227,7 @@ function jA() {
     }),
   });
 }
-const zA = "/assets/instrutor_perfil-CqMP6Tx9.webp";
+const zA = "./assets/instrutor_perfil-CqMP6Tx9.webp";
 function OA() {
   return x.jsxs(x.Fragment, {
     children: [
