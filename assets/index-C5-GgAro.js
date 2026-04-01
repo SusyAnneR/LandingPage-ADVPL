@@ -19306,7 +19306,7 @@ function EA() {
                     className: "flex items-center gap-2 ml-5",
                     children: [
                       x.jsx(tf, { className: "w-5 h-5 text-green-400" }),
-                      x.jsx("span", { children: "Garantia de 15 dias" }),
+                      x.jsx("span", { children: "Garantia de 7 dias" }),
                     ],
                   }),
                 }),
@@ -19489,14 +19489,14 @@ function MA() {
                       x.jsx(tf, { className: "w-5 h-5" }),
                       x.jsx("span", {
                         className: "font-semibold",
-                        children: "Garantia Incondicional de 15 Dias",
+                        children: "Garantia Incondicional de 7 Dias",
                       }),
                     ],
                   }),
                   x.jsx("p", {
                     className: "text-sm text-slate-600",
                     children:
-                      "Se em 15 dias você não estiver satisfeito, devolvemos 100% do seu investimento.",
+                      "Se em 7 dias você não estiver satisfeito, devolvemos 100% do seu investimento.",
                   }),
                   x.jsx("div", {
                     className:
@@ -20364,13 +20364,13 @@ function OA() {
                     children: [
                       "Olá! Sou ",
                       x.jsx("strong", { children: "Luiz Otávio" }),
-                      ", desenvolvedor e consultor TOTVS há mais de 12 anos.",
+                      ", desenvolvedor e consultor TOTVS há mais de 15 anos.",
                     ],
                   }),
                   x.jsx("div", {
                     className: "space-y-4 mb-8",
                     children: [
-                      "+12 anos de experiência com TOTVS Protheus",
+                      "+15 anos de experiência com TOTVS Protheus",
                       "+50 projetos de customização entregues",
                       "Especialista certificado TOTVS",
                       "Atuação em empresas de médio e grande porte",
